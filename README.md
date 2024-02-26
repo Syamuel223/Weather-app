@@ -1,4 +1,8 @@
+
 ## WEATHER APP 
+
+![image](https://github.com/Syamuel223/Weather-app/assets/128795128/ea73177a-384b-4950-94ca-3a511fe8be29)
+
 
 Welcome to WeatherApp, a simple web application designed to provide current weather information for cities around the world.
 
@@ -38,3 +42,11 @@ You can access the live demo of WeatherApp deployed on Netlify [here] (https://w
 ## Credits
 
 WeatherApp was created by SYAMUEL RAJ. It utilizes the OpenWeatherMap API to fetch weather data.
+
+## SCREENSHOTS
+
+
+![image](https://github.com/Syamuel223/Weather-app/assets/128795128/4ad25799-fe79-4abd-bfce-678b33e93839)
+![image](https://github.com/Syamuel223/Weather-app/assets/128795128/0f34adde-a1b3-49d3-b7ca-7d1ab6751adf)
+
+
